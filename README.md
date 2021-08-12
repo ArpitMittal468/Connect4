@@ -1,2 +1,2 @@
 # Connect4
-Tkinter Library Was used in this project
+GUI Based Game made with Tkinter
